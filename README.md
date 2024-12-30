@@ -75,7 +75,7 @@ Original Image (`example2.jpg`):
 ![Original Image Placeholder](/images/original.jpg)
 
 Generated Pencil Sketch:
-![Sketch Image Placeholder](/images/output.jpg)
+![Sketch Image Placeholder](/images/output.png)
 
 ---
 
