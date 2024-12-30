@@ -72,10 +72,10 @@ Press any key to close the displayed windows.
 
 ## Example Output
 Original Image (`example2.jpg`):
-![Original Image Placeholder](https://via.placeholder.com/400?text=Original+Image)
+![Original Image Placeholder](/images/original.jpg)
 
 Generated Pencil Sketch:
-![Sketch Image Placeholder](https://via.placeholder.com/400?text=Sketch+Image)
+![Sketch Image Placeholder](/images/output.jpg)
 
 ---
 
